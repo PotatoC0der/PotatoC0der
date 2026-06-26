@@ -23,3 +23,8 @@ Uncovering patterns in incident timing, location, and type using Python and Pand
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
+
+## 🙋 Outside of work
+
+Food tripper, home cook, and jogger based in Metro Manila.
+Into mobile photography and whatever ebook I'm currently procrastinating on finishing.
