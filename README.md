@@ -5,12 +5,12 @@ I have a background in traffic planning, QA in medico-legal documents, and visa 
 
 ---
 
-## 🔭 What I'm building
+## 🔭 What I build
 
 **[MMDA Traffic Incident Analysis](link-to-repo)**
 Exploratory analysis of ~17,000 Metro Manila road incidents (2018–2020).
 Uncovering patterns in incident timing, location, and type using Python and Pandas.
-> Status: In progress
+> Status: Complete
 
 ---
 
